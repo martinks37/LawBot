@@ -11,6 +11,7 @@ LawBot is an AI-powered legal chatbot that helps users find relevant legal infor
 - Lightweight and easy to run locally
 
 ## Tech Stack
+
 - Python
 - Flask
 - Sentence Transformers
@@ -27,3 +28,8 @@ LawBot is an AI-powered legal chatbot that helps users find relevant legal infor
 5. The response can be translated into the user's preferred language.
 
 > **Note:** This project is intended for educational and research purposes only. It does not provide legal advice and should not replace consultation with a qualified legal professional.
+> <img width="1920" height="1080" alt="Screenshot 2025-03-09 193140" src="https://github.com/user-attachments/assets/adc7c32a-1aa7-4e1b-aa00-da141b72b709" />
+<img width="1910" height="908" alt="Screenshot 2025-03-10 143840" src="https://github.com/user-attachments/assets/97d95f21-0291-4e3c-abc2-11759cbe1e47" />
+<img width="1911" height="967" alt="Screenshot 2025-04-03 192941" src="https://github.com/user-attachments/assets/bf87b88c-8d23-4e39-8cfd-fad2b5ddcf9d" />
+
+
